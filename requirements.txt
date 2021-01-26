@@ -2,6 +2,5 @@ pandas
 matplotlib
 numpy
 seaborn
-csv
 random
 operator
