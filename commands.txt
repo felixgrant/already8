@@ -1,0 +1,5 @@
+source code/env/bin/activate
+Open directory: 
+
+python already8.py
+
